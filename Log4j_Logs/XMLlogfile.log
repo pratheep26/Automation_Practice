@@ -1,0 +1,8 @@
+2021-07-07 12:31:43,407 INFO  [XmlConfigurator] This is a info 
+2021-07-07 12:31:43,407 WARN  [XmlConfigurator] This is a warning 
+2021-07-07 12:31:43,408 ERROR [XmlConfigurator] This is an error 
+2021-07-07 12:31:43,408 FATAL [XmlConfigurator] This is a fatal message 
+2021-07-07 12:35:09,241 INFO  [Log4jXmlConfigurator] This is a info 
+2021-07-07 12:35:09,242 WARN  [Log4jXmlConfigurator] This is a warning 
+2021-07-07 12:35:09,242 ERROR [Log4jXmlConfigurator] This is an error 
+2021-07-07 12:35:09,242 FATAL [Log4jXmlConfigurator] This is a fatal message 
