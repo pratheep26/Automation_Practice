@@ -16,9 +16,6 @@ public class Log4jBasicConfigurator {
 		logger.warn("This is a warning");
 		logger.error("This is an error");
 		logger.fatal("This is a fatal message");
-
-		logger.debug("This is a debug Message");
-		logger.debug("This is a debug Message");
 	}
 
 }
